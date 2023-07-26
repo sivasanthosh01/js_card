@@ -1,0 +1,41 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+#cardSection{
+	width:100%;
+	background-color:white;
+}
+.card-container{
+	width:90%;
+	margin:auto;
+	padding-top:30px;
+	text-align:center;
+}
+.tophead{
+	font-size:35px;
+	padding:20px;
+	font-weight:bold;
+	
+	
+}
+.row-card{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	
+}
+/* .col-card{ */
+	/* width:30%; */
+	/* padding:20px; */
+	/* border:1px solid white; */
+	/* margin-bottom:10px; */
+	/* text-align:center; */
+	/* background-color:pink; */
+	
+/* } */
+img{
+	width:100%;
+}
